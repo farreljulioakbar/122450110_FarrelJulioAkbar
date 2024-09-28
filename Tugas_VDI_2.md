@@ -1,5 +1,5 @@
 # 122450110_FarrelJulioAkbar
-Tugas_1_VDI2
+Tugas_2_VDI
 ### *Good and Bad Visualization*
 
   ## *Bad Visualization*
